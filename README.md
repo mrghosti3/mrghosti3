@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+<br>
+<br>
+
+<img align="left" alt="mrghosti3's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mrghosti3&theme=radical&show_icons=true&hide_border=true" />
+
 <!--
 **mrghosti3/mrghosti3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
