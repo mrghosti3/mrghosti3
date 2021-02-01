@@ -40,14 +40,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#439](https://github.com/zhanghai/MaterialFiles/issues/439) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
-2. ❗️ Opened issue [#438](https://github.com/zhanghai/MaterialFiles/issues/438) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
-3. 🗣 Commented on [#12](https://github.com/aidiss/barbora-delivery-spot-alert/issues/12) in [aidiss/barbora-delivery-spot-alert](https://github.com/aidiss/barbora-delivery-spot-alert)
-4. ❌ Reopened PR [#12](https://github.com/aidiss/barbora-delivery-spot-alert/pull/12) in [aidiss/barbora-delivery-spot-alert](https://github.com/aidiss/barbora-delivery-spot-alert)
-5. ❌ Closed PR [#12](https://github.com/aidiss/barbora-delivery-spot-alert/pull/12) in [aidiss/barbora-delivery-spot-alert](https://github.com/aidiss/barbora-delivery-spot-alert)
-6. 💪 Opened PR [#12](https://github.com/aidiss/barbora-delivery-spot-alert/pull/12) in [aidiss/barbora-delivery-spot-alert](https://github.com/aidiss/barbora-delivery-spot-alert)
-7. 🎉 Merged PR [#1](https://github.com/mrghosti3/barbora-delivery-spot-alert/pull/1) in [mrghosti3/barbora-delivery-spot-alert](https://github.com/mrghosti3/barbora-delivery-spot-alert)
-8. 💪 Opened PR [#1](https://github.com/mrghosti3/barbora-delivery-spot-alert/pull/1) in [mrghosti3/barbora-delivery-spot-alert](https://github.com/mrghosti3/barbora-delivery-spot-alert)
+1. 🗣 Commented on [#438](https://github.com/zhanghai/MaterialFiles/issues/438) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+2. 🗣 Commented on [#438](https://github.com/zhanghai/MaterialFiles/issues/438) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+3. ❗️ Opened issue [#439](https://github.com/zhanghai/MaterialFiles/issues/439) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+4. ❗️ Opened issue [#438](https://github.com/zhanghai/MaterialFiles/issues/438) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+5. 🗣 Commented on [#12](https://github.com/aidiss/barbora-delivery-spot-alert/issues/12) in [aidiss/barbora-delivery-spot-alert](https://github.com/aidiss/barbora-delivery-spot-alert)
+6. ❌ Reopened PR [#12](https://github.com/aidiss/barbora-delivery-spot-alert/pull/12) in [aidiss/barbora-delivery-spot-alert](https://github.com/aidiss/barbora-delivery-spot-alert)
+7. ❌ Closed PR [#12](https://github.com/aidiss/barbora-delivery-spot-alert/pull/12) in [aidiss/barbora-delivery-spot-alert](https://github.com/aidiss/barbora-delivery-spot-alert)
+8. 💪 Opened PR [#12](https://github.com/aidiss/barbora-delivery-spot-alert/pull/12) in [aidiss/barbora-delivery-spot-alert](https://github.com/aidiss/barbora-delivery-spot-alert)
 <!--END_SECTION:activity-->
 
 <br />
