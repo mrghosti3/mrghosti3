@@ -40,14 +40,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#58](https://github.com/otakuhqz/Omega/issues/58) in [otakuhqz/Omega](https://github.com/otakuhqz/Omega)
-2. 🗣 Commented on [#438](https://github.com/zhanghai/MaterialFiles/issues/438) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+1. 🗣 Commented on [#58](https://github.com/otakuhqz/Omega/issues/58) in [otakuhqz/Omega](https://github.com/otakuhqz/Omega)
+2. ❗️ Opened issue [#58](https://github.com/otakuhqz/Omega/issues/58) in [otakuhqz/Omega](https://github.com/otakuhqz/Omega)
 3. 🗣 Commented on [#438](https://github.com/zhanghai/MaterialFiles/issues/438) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
-4. ❗️ Opened issue [#439](https://github.com/zhanghai/MaterialFiles/issues/439) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
-5. ❗️ Opened issue [#438](https://github.com/zhanghai/MaterialFiles/issues/438) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
-6. 🗣 Commented on [#12](https://github.com/aidiss/barbora-delivery-spot-alert/issues/12) in [aidiss/barbora-delivery-spot-alert](https://github.com/aidiss/barbora-delivery-spot-alert)
-7. ❌ Reopened PR [#12](https://github.com/aidiss/barbora-delivery-spot-alert/pull/12) in [aidiss/barbora-delivery-spot-alert](https://github.com/aidiss/barbora-delivery-spot-alert)
-8. ❌ Closed PR [#12](https://github.com/aidiss/barbora-delivery-spot-alert/pull/12) in [aidiss/barbora-delivery-spot-alert](https://github.com/aidiss/barbora-delivery-spot-alert)
+4. 🗣 Commented on [#438](https://github.com/zhanghai/MaterialFiles/issues/438) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+5. ❗️ Opened issue [#439](https://github.com/zhanghai/MaterialFiles/issues/439) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+6. ❗️ Opened issue [#438](https://github.com/zhanghai/MaterialFiles/issues/438) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+7. 🗣 Commented on [#12](https://github.com/aidiss/barbora-delivery-spot-alert/issues/12) in [aidiss/barbora-delivery-spot-alert](https://github.com/aidiss/barbora-delivery-spot-alert)
+8. ❌ Reopened PR [#12](https://github.com/aidiss/barbora-delivery-spot-alert/pull/12) in [aidiss/barbora-delivery-spot-alert](https://github.com/aidiss/barbora-delivery-spot-alert)
 <!--END_SECTION:activity-->
 
 <br />
