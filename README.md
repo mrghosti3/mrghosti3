@@ -43,11 +43,11 @@
 1. 🗣 Commented on [#439](https://github.com/zhanghai/MaterialFiles/issues/439) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
 2. 🗣 Commented on [#439](https://github.com/zhanghai/MaterialFiles/issues/439) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
 3. 🗣 Commented on [#439](https://github.com/zhanghai/MaterialFiles/issues/439) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
-4. ❗️ Closed issue [#58](https://github.com/otakuhqz/Omega/issues/58) in [otakuhqz/Omega](https://github.com/otakuhqz/Omega)
-5. 🗣 Commented on [#58](https://github.com/otakuhqz/Omega/issues/58) in [otakuhqz/Omega](https://github.com/otakuhqz/Omega)
+4. 🗣 Commented on [#439](https://github.com/zhanghai/MaterialFiles/issues/439) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+5. ❗️ Closed issue [#58](https://github.com/otakuhqz/Omega/issues/58) in [otakuhqz/Omega](https://github.com/otakuhqz/Omega)
 6. 🗣 Commented on [#58](https://github.com/otakuhqz/Omega/issues/58) in [otakuhqz/Omega](https://github.com/otakuhqz/Omega)
-7. ❗️ Opened issue [#58](https://github.com/otakuhqz/Omega/issues/58) in [otakuhqz/Omega](https://github.com/otakuhqz/Omega)
-8. 🗣 Commented on [#438](https://github.com/zhanghai/MaterialFiles/issues/438) in [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+7. 🗣 Commented on [#58](https://github.com/otakuhqz/Omega/issues/58) in [otakuhqz/Omega](https://github.com/otakuhqz/Omega)
+8. ❗️ Opened issue [#58](https://github.com/otakuhqz/Omega/issues/58) in [otakuhqz/Omega](https://github.com/otakuhqz/Omega)
 <!--END_SECTION:activity-->
 
 <br />
