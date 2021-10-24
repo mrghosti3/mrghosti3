@@ -36,14 +36,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/vu-sa/vusa.lt/issues/11) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-2. ❗️ Closed issue [#10](https://github.com/vu-sa/vusa.lt/issues/10) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-3. 🗣 Commented on [#10](https://github.com/vu-sa/vusa.lt/issues/10) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-4. 🗣 Commented on [#10](https://github.com/vu-sa/vusa.lt/issues/10) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-5. 🗣 Commented on [#10](https://github.com/vu-sa/vusa.lt/issues/10) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-6. 🗣 Commented on [#10](https://github.com/vu-sa/vusa.lt/issues/10) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-7. 🗣 Commented on [#10](https://github.com/vu-sa/vusa.lt/issues/10) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-8. ❗️ Opened issue [#10](https://github.com/vu-sa/vusa.lt/issues/10) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+1. 🗣 Commented on [#1461](https://github.com/organicmaps/organicmaps/issues/1461) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+2. 🗣 Commented on [#1461](https://github.com/organicmaps/organicmaps/issues/1461) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+3. 🗣 Commented on [#1461](https://github.com/organicmaps/organicmaps/issues/1461) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+4. ❗️ Opened issue [#1461](https://github.com/organicmaps/organicmaps/issues/1461) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+5. 🗣 Commented on [#994](https://github.com/organicmaps/organicmaps/issues/994) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+6. 🗣 Commented on [#11](https://github.com/vu-sa/vusa.lt/issues/11) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+7. ❗️ Closed issue [#10](https://github.com/vu-sa/vusa.lt/issues/10) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+8. 🗣 Commented on [#10](https://github.com/vu-sa/vusa.lt/issues/10) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
 <!--END_SECTION:activity-->
 
 <br />
