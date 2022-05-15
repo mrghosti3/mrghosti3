@@ -33,14 +33,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/vu-sa/vusa.lt/issues/39) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-2. ❗️ Closed issue [#11419](https://github.com/darktable-org/darktable/issues/11419) in [darktable-org/darktable](https://github.com/darktable-org/darktable)
-3. 🗣 Commented on [#11419](https://github.com/darktable-org/darktable/issues/11419) in [darktable-org/darktable](https://github.com/darktable-org/darktable)
-4. 🗣 Commented on [#11419](https://github.com/darktable-org/darktable/issues/11419) in [darktable-org/darktable](https://github.com/darktable-org/darktable)
-5. 🗣 Commented on [#11419](https://github.com/darktable-org/darktable/issues/11419) in [darktable-org/darktable](https://github.com/darktable-org/darktable)
-6. 🗣 Commented on [#11419](https://github.com/darktable-org/darktable/issues/11419) in [darktable-org/darktable](https://github.com/darktable-org/darktable)
-7. ❗️ Opened issue [#11419](https://github.com/darktable-org/darktable/issues/11419) in [darktable-org/darktable](https://github.com/darktable-org/darktable)
-8. 🗣 Commented on [#1461](https://github.com/organicmaps/organicmaps/issues/1461) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+1. 🗣 Commented on [#27](https://github.com/vu-sa/vusa.lt/issues/27) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+2. 🗣 Commented on [#27](https://github.com/vu-sa/vusa.lt/issues/27) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+3. 🗣 Commented on [#35](https://github.com/vu-sa/vusa.lt/issues/35) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+4. 🗣 Commented on [#39](https://github.com/vu-sa/vusa.lt/issues/39) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+5. 🗣 Commented on [#39](https://github.com/vu-sa/vusa.lt/issues/39) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+6. ❗️ Closed issue [#11419](https://github.com/darktable-org/darktable/issues/11419) in [darktable-org/darktable](https://github.com/darktable-org/darktable)
+7. 🗣 Commented on [#11419](https://github.com/darktable-org/darktable/issues/11419) in [darktable-org/darktable](https://github.com/darktable-org/darktable)
+8. 🗣 Commented on [#11419](https://github.com/darktable-org/darktable/issues/11419) in [darktable-org/darktable](https://github.com/darktable-org/darktable)
 <!--END_SECTION:activity-->
 
 <br />
