@@ -33,14 +33,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#994](https://github.com/organicmaps/organicmaps/issues/994) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-2. 🗣 Commented on [#994](https://github.com/organicmaps/organicmaps/issues/994) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-3. 🗣 Commented on [#63](https://github.com/vu-sa/vusa.lt/issues/63) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-4. 🗣 Commented on [#60](https://github.com/vu-sa/vusa.lt/issues/60) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-5. 🗣 Commented on [#60](https://github.com/vu-sa/vusa.lt/issues/60) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-6. 🗣 Commented on [#46](https://github.com/vu-sa/vusa.lt/issues/46) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-7. 🗣 Commented on [#27](https://github.com/vu-sa/vusa.lt/issues/27) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-8. 🗣 Commented on [#27](https://github.com/vu-sa/vusa.lt/issues/27) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+1. ❗️ Opened issue [#3](https://github.com/mrghosti3/task-UNIX/issues/3) in [mrghosti3/task-UNIX](https://github.com/mrghosti3/task-UNIX)
+2. ❗️ Opened issue [#2](https://github.com/mrghosti3/task-UNIX/issues/2) in [mrghosti3/task-UNIX](https://github.com/mrghosti3/task-UNIX)
+3. ❗️ Opened issue [#1](https://github.com/mrghosti3/task-UNIX/issues/1) in [mrghosti3/task-UNIX](https://github.com/mrghosti3/task-UNIX)
+4. 🗣 Commented on [#83](https://github.com/vu-sa/vusa.lt/issues/83) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+5. 🗣 Commented on [#83](https://github.com/vu-sa/vusa.lt/issues/83) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+6. ❗️ Closed issue [#994](https://github.com/organicmaps/organicmaps/issues/994) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+7. 🗣 Commented on [#994](https://github.com/organicmaps/organicmaps/issues/994) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+8. 🗣 Commented on [#63](https://github.com/vu-sa/vusa.lt/issues/63) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
 <!--END_SECTION:activity-->
 
 <br />
