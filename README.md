@@ -33,14 +33,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1063](https://github.com/hrsh7th/nvim-cmp/issues/1063) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
-2. ❗️ Closed issue [#1063](https://github.com/hrsh7th/nvim-cmp/issues/1063) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
-3. ❗️ Opened issue [#1063](https://github.com/hrsh7th/nvim-cmp/issues/1063) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
-4. ❗️ Opened issue [#3](https://github.com/mrghosti3/task-UNIX/issues/3) in [mrghosti3/task-UNIX](https://github.com/mrghosti3/task-UNIX)
-5. ❗️ Opened issue [#2](https://github.com/mrghosti3/task-UNIX/issues/2) in [mrghosti3/task-UNIX](https://github.com/mrghosti3/task-UNIX)
-6. ❗️ Opened issue [#1](https://github.com/mrghosti3/task-UNIX/issues/1) in [mrghosti3/task-UNIX](https://github.com/mrghosti3/task-UNIX)
-7. 🗣 Commented on [#83](https://github.com/vu-sa/vusa.lt/issues/83) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-8. 🗣 Commented on [#83](https://github.com/vu-sa/vusa.lt/issues/83) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+1. 🗣 Commented on [#89](https://github.com/vu-sa/vusa.lt/issues/89) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+2. 🗣 Commented on [#89](https://github.com/vu-sa/vusa.lt/issues/89) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+3. 🗣 Commented on [#22](https://github.com/vu-sa/vusa.lt/issues/22) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+4. 🗣 Commented on [#1063](https://github.com/hrsh7th/nvim-cmp/issues/1063) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+5. ❗️ Closed issue [#1063](https://github.com/hrsh7th/nvim-cmp/issues/1063) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+6. ❗️ Opened issue [#1063](https://github.com/hrsh7th/nvim-cmp/issues/1063) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+7. ❗️ Opened issue [#3](https://github.com/mrghosti3/task-UNIX/issues/3) in [mrghosti3/task-UNIX](https://github.com/mrghosti3/task-UNIX)
+8. ❗️ Opened issue [#2](https://github.com/mrghosti3/task-UNIX/issues/2) in [mrghosti3/task-UNIX](https://github.com/mrghosti3/task-UNIX)
 <!--END_SECTION:activity-->
 
 <br />
