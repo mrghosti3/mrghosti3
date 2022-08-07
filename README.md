@@ -36,14 +36,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/mrghosti3/CustomPlugin/pull/3) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
-2. ❗️ Closed issue [#1](https://github.com/mrghosti3/CustomPlugin/issues/1) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
-3. 💪 Opened PR [#3](https://github.com/mrghosti3/CustomPlugin/pull/3) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
-4. ❗️ Opened issue [#2](https://github.com/mrghosti3/CustomPlugin/issues/2) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
-5. ❗️ Opened issue [#1](https://github.com/mrghosti3/CustomPlugin/issues/1) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
-6. 🗣 Commented on [#89](https://github.com/vu-sa/vusa.lt/issues/89) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-7. 🗣 Commented on [#89](https://github.com/vu-sa/vusa.lt/issues/89) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-8. 🗣 Commented on [#22](https://github.com/vu-sa/vusa.lt/issues/22) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+1. 🗣 Commented on [#96](https://github.com/vu-sa/vusa.lt/issues/96) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+2. 🗣 Commented on [#96](https://github.com/vu-sa/vusa.lt/issues/96) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+3. ❗️ Opened issue [#96](https://github.com/vu-sa/vusa.lt/issues/96) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+4. 🗣 Commented on [#89](https://github.com/vu-sa/vusa.lt/issues/89) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+5. 🗣 Commented on [#95](https://github.com/vu-sa/vusa.lt/issues/95) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+6. ❗️ Opened issue [#4](https://github.com/mrghosti3/CustomPlugin/issues/4) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+7. 🗣 Commented on [#2](https://github.com/mrghosti3/CustomPlugin/issues/2) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+8. 🎉 Merged PR [#3](https://github.com/mrghosti3/CustomPlugin/pull/3) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
 <!--END_SECTION:activity-->
 
 <br />
