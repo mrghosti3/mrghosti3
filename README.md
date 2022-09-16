@@ -4,8 +4,8 @@
 
 - Open-source software
 - Software development on Linux (Currently on Fedora Workstation)
-- Trying out RUST programming language
-- Enhancing my neovim setup
+- Learning Rust
+- Blockchain and P2P networking
 
 ### Tools and Languages:
 
