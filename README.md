@@ -36,14 +36,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/mrghosti3/nbteditor/issues/2) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-2. ❗️ Opened issue [#1](https://github.com/mrghosti3/nbteditor/issues/1) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-3. 🗣 Commented on [#89](https://github.com/vu-sa/vusa.lt/issues/89) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-4. 🗣 Commented on [#95](https://github.com/vu-sa/vusa.lt/issues/95) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-5. ❗️ Opened issue [#9](https://github.com/mrghosti3/cheaper-marketplace/issues/9) in [mrghosti3/cheaper-marketplace](https://github.com/mrghosti3/cheaper-marketplace)
-6. ❗️ Opened issue [#8](https://github.com/mrghosti3/cheaper-marketplace/issues/8) in [mrghosti3/cheaper-marketplace](https://github.com/mrghosti3/cheaper-marketplace)
-7. ❗️ Opened issue [#7](https://github.com/mrghosti3/cheaper-marketplace/issues/7) in [mrghosti3/cheaper-marketplace](https://github.com/mrghosti3/cheaper-marketplace)
-8. ❗️ Opened issue [#6](https://github.com/mrghosti3/cheaper-marketplace/issues/6) in [mrghosti3/cheaper-marketplace](https://github.com/mrghosti3/cheaper-marketplace)
+1. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+2. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+3. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+4. ❗️ Opened issue [#3](https://github.com/mrghosti3/nbteditor/issues/3) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+5. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+6. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+7. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+8. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 <!--END_SECTION:activity-->
 
 <br />
