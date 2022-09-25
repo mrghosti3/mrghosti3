@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-2. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
-3. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
-4. ❗️ Opened issue [#3](https://github.com/mrghosti3/nbteditor/issues/3) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-5. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
-6. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+2. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+3. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+4. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+5. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+6. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
 7. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 8. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 <!--END_SECTION:activity-->
