@@ -36,13 +36,13 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+1. 🗣 Commented on [#1063](https://github.com/hrsh7th/nvim-cmp/issues/1063) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 2. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
 3. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
 4. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
 5. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
 6. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-7. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+7. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
 8. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 <!--END_SECTION:activity-->
 
