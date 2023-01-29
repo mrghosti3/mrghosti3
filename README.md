@@ -36,14 +36,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/mrghosti3/CustomPlugin/issues/2) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
-2. ❗️ Closed issue [#1](https://github.com/mrghosti3/task-UNIX/issues/1) in [mrghosti3/task-UNIX](https://github.com/mrghosti3/task-UNIX)
-3. 🗣 Commented on [#3](https://github.com/mrghosti3/task-UNIX/issues/3) in [mrghosti3/task-UNIX](https://github.com/mrghosti3/task-UNIX)
-4. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-5. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-6. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-7. 🗣 Commented on [#83](https://github.com/laravel/sail/issues/83) in [laravel/sail](https://github.com/laravel/sail)
-8. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+1. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+2. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+3. 🗣 Commented on [#6](https://github.com/mrghosti3/CustomPlugin/issues/6) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+4. ❗️ Closed issue [#2](https://github.com/mrghosti3/CustomPlugin/issues/2) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+5. 🎉 Merged PR [#5](https://github.com/mrghosti3/CustomPlugin/pull/5) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+6. ❗️ Opened issue [#6](https://github.com/mrghosti3/CustomPlugin/issues/6) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+7. 💪 Opened PR [#5](https://github.com/mrghosti3/CustomPlugin/pull/5) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+8. 🗣 Commented on [#2](https://github.com/mrghosti3/CustomPlugin/issues/2) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
 <!--END_SECTION:activity-->
 
 <br />
