@@ -23,8 +23,6 @@
 
 <img width="60px" alt="Podman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" />
 
-<br /><br />
-
 ---
 
 ### Recent Activity:
