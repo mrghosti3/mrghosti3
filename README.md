@@ -28,14 +28,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#162](https://github.com/dalek-cryptography/ed25519-dalek/issues/162) in [dalek-cryptography/ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek)
-2. 🗣 Commented on [#162](https://github.com/dalek-cryptography/ed25519-dalek/issues/162) in [dalek-cryptography/ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek)
-3. ❗️ Opened issue [#7](https://github.com/mrghosti3/CustomPlugin/issues/7) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
-4. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-5. 🗣 Commented on [#106](https://github.com/vu-sa/vusa.lt/issues/106) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
-6. 🗣 Commented on [#6](https://github.com/mrghosti3/CustomPlugin/issues/6) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
-7. ❗️ Closed issue [#2](https://github.com/mrghosti3/CustomPlugin/issues/2) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
-8. 🎉 Merged PR [#5](https://github.com/mrghosti3/CustomPlugin/pull/5) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+1. 🗣 Commented on [#6](https://github.com/mrghosti3/CustomPlugin/issues/6) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+2. 🗣 Commented on [#548](https://github.com/cantaloupe-project/cantaloupe/issues/548) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
+3. 🗣 Commented on [#81](https://github.com/conradkleinespel/rpassword/issues/81) in [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword)
+4. 🗣 Commented on [#81](https://github.com/conradkleinespel/rpassword/issues/81) in [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword)
+5. ❗️ Opened issue [#81](https://github.com/conradkleinespel/rpassword/issues/81) in [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword)
+6. ❗️ Opened issue [#623](https://github.com/cantaloupe-project/cantaloupe/issues/623) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
+7. 🗣 Commented on [#162](https://github.com/dalek-cryptography/ed25519-dalek/issues/162) in [dalek-cryptography/ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek)
+8. 🗣 Commented on [#162](https://github.com/dalek-cryptography/ed25519-dalek/issues/162) in [dalek-cryptography/ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek)
 <!--END_SECTION:activity-->
 
 <br />
