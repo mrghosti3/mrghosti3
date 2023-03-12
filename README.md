@@ -28,14 +28,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/mrghosti3/CustomPlugin/issues/6) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
-2. 🗣 Commented on [#548](https://github.com/cantaloupe-project/cantaloupe/issues/548) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
-3. 🗣 Commented on [#81](https://github.com/conradkleinespel/rpassword/issues/81) in [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword)
-4. 🗣 Commented on [#81](https://github.com/conradkleinespel/rpassword/issues/81) in [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword)
-5. ❗️ Opened issue [#81](https://github.com/conradkleinespel/rpassword/issues/81) in [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword)
-6. ❗️ Opened issue [#623](https://github.com/cantaloupe-project/cantaloupe/issues/623) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
-7. 🗣 Commented on [#162](https://github.com/dalek-cryptography/ed25519-dalek/issues/162) in [dalek-cryptography/ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek)
-8. 🗣 Commented on [#162](https://github.com/dalek-cryptography/ed25519-dalek/issues/162) in [dalek-cryptography/ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek)
+1. ❗️ Opened issue [#9](https://github.com/mrghosti3/CustomPlugin/issues/9) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+2. ❗️ Opened issue [#8](https://github.com/mrghosti3/CustomPlugin/issues/8) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+3. 🗣 Commented on [#548](https://github.com/cantaloupe-project/cantaloupe/issues/548) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
+4. 🗣 Commented on [#6](https://github.com/mrghosti3/CustomPlugin/issues/6) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+5. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+6. 🗣 Commented on [#6](https://github.com/mrghosti3/CustomPlugin/issues/6) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+7. 🗣 Commented on [#548](https://github.com/cantaloupe-project/cantaloupe/issues/548) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
+8. 🗣 Commented on [#81](https://github.com/conradkleinespel/rpassword/issues/81) in [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword)
 <!--END_SECTION:activity-->
 
 <br />
