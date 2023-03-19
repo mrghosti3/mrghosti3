@@ -28,14 +28,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/mrghosti3/CustomPlugin/issues/9) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
-2. ❗️ Opened issue [#8](https://github.com/mrghosti3/CustomPlugin/issues/8) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
-3. 🗣 Commented on [#548](https://github.com/cantaloupe-project/cantaloupe/issues/548) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
-4. 🗣 Commented on [#6](https://github.com/mrghosti3/CustomPlugin/issues/6) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
-5. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+1. ❗️ Closed issue [#9](https://github.com/mrghosti3/CustomPlugin/issues/9) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+2. ❗️ Closed issue [#8](https://github.com/mrghosti3/CustomPlugin/issues/8) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+3. ❗️ Opened issue [#9](https://github.com/mrghosti3/CustomPlugin/issues/9) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+4. ❗️ Opened issue [#8](https://github.com/mrghosti3/CustomPlugin/issues/8) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+5. 🗣 Commented on [#548](https://github.com/cantaloupe-project/cantaloupe/issues/548) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
 6. 🗣 Commented on [#6](https://github.com/mrghosti3/CustomPlugin/issues/6) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
-7. 🗣 Commented on [#548](https://github.com/cantaloupe-project/cantaloupe/issues/548) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
-8. 🗣 Commented on [#81](https://github.com/conradkleinespel/rpassword/issues/81) in [conradkleinespel/rpassword](https://github.com/conradkleinespel/rpassword)
+7. 🗣 Commented on [#3](https://github.com/GyulyVGC/sniffnet/issues/3) in [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+8. 🗣 Commented on [#6](https://github.com/mrghosti3/CustomPlugin/issues/6) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
 <!--END_SECTION:activity-->
 
 <br />
