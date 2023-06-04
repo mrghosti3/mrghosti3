@@ -28,7 +28,7 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com/eihwaz/named-binary-tag/issues/25) in [eihwaz/named-binary-tag](https://github.com/eihwaz/named-binary-tag)
+1. ❗ Opened issue [#25](https://github.com/eihwaz/named-binary-tag/issues/25) in [eihwaz/named-binary-tag](https://github.com/eihwaz/named-binary-tag)
 2. ❌ Closed PR [#89](https://github.com/mrghosti3/vusa.lt/pull/89) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
 3. ❌ Closed PR [#88](https://github.com/mrghosti3/vusa.lt/pull/88) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
 4. ❌ Closed PR [#83](https://github.com/mrghosti3/vusa.lt/pull/83) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
