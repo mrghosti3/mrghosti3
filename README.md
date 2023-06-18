@@ -28,14 +28,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#25](https://github.com/eihwaz/named-binary-tag/issues/25) in [eihwaz/named-binary-tag](https://github.com/eihwaz/named-binary-tag)
-2. ❌ Closed PR [#89](https://github.com/mrghosti3/vusa.lt/pull/89) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
-3. ❌ Closed PR [#88](https://github.com/mrghosti3/vusa.lt/pull/88) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
-4. ❌ Closed PR [#83](https://github.com/mrghosti3/vusa.lt/pull/83) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
-5. ❌ Closed PR [#87](https://github.com/mrghosti3/vusa.lt/pull/87) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
-6. ❌ Closed PR [#86](https://github.com/mrghosti3/vusa.lt/pull/86) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
-7. ❌ Closed PR [#85](https://github.com/mrghosti3/vusa.lt/pull/85) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
-8. ❌ Closed PR [#84](https://github.com/mrghosti3/vusa.lt/pull/84) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
+1. 💪 Opened PR [#26](https://github.com/eihwaz/named-binary-tag/pull/26) in [eihwaz/named-binary-tag](https://github.com/eihwaz/named-binary-tag)
+2. ❗ Opened issue [#25](https://github.com/eihwaz/named-binary-tag/issues/25) in [eihwaz/named-binary-tag](https://github.com/eihwaz/named-binary-tag)
+3. ❌ Closed PR [#89](https://github.com/mrghosti3/vusa.lt/pull/89) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
+4. ❌ Closed PR [#88](https://github.com/mrghosti3/vusa.lt/pull/88) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
+5. ❌ Closed PR [#83](https://github.com/mrghosti3/vusa.lt/pull/83) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
+6. ❌ Closed PR [#87](https://github.com/mrghosti3/vusa.lt/pull/87) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
+7. ❌ Closed PR [#86](https://github.com/mrghosti3/vusa.lt/pull/86) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
+8. ❌ Closed PR [#85](https://github.com/mrghosti3/vusa.lt/pull/85) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
 <!--END_SECTION:activity-->
 
 <br />
