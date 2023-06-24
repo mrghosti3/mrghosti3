@@ -28,14 +28,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/eihwaz/named-binary-tag/pull/26) in [eihwaz/named-binary-tag](https://github.com/eihwaz/named-binary-tag)
-2. ❗ Opened issue [#25](https://github.com/eihwaz/named-binary-tag/issues/25) in [eihwaz/named-binary-tag](https://github.com/eihwaz/named-binary-tag)
-3. ❌ Closed PR [#89](https://github.com/mrghosti3/vusa.lt/pull/89) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
-4. ❌ Closed PR [#88](https://github.com/mrghosti3/vusa.lt/pull/88) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
-5. ❌ Closed PR [#83](https://github.com/mrghosti3/vusa.lt/pull/83) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
-6. ❌ Closed PR [#87](https://github.com/mrghosti3/vusa.lt/pull/87) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
-7. ❌ Closed PR [#86](https://github.com/mrghosti3/vusa.lt/pull/86) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
-8. ❌ Closed PR [#85](https://github.com/mrghosti3/vusa.lt/pull/85) in [mrghosti3/vusa.lt](https://github.com/mrghosti3/vusa.lt)
+1. ❗ Opened issue [#5](https://github.com/mrghosti3/nbteditor/issues/5) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+2. ❌ Closed PR [#4](https://github.com/mrghosti3/nbteditor/pull/4) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+3. 🗣 Commented on [#4](https://github.com/mrghosti3/nbteditor/issues/4) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+4. 🔒 Closed issue [#3](https://github.com/mrghosti3/nbteditor/issues/3) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+5. 🔒 Closed issue [#2](https://github.com/mrghosti3/nbteditor/issues/2) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+6. 💪 Opened PR [#4](https://github.com/mrghosti3/nbteditor/pull/4) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+7. ❗ Opened issue [#10](https://github.com/mrghosti3/CustomPlugin/issues/10) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+8. 💪 Opened PR [#26](https://github.com/eihwaz/named-binary-tag/pull/26) in [eihwaz/named-binary-tag](https://github.com/eihwaz/named-binary-tag)
 <!--END_SECTION:activity-->
 
 <br />
