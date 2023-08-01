@@ -44,5 +44,21 @@
 
 <br />
 
-<img align="left" alt="mrghosti3's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrghosti3&theme=radical&show_icons=true&hide_border=true" />
-<img align="left" alt="mrghosti3's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrghosti3&theme=radical&hide_border=true&layout=compact" />
+<div align="center">
+    <a href="#x">
+        <img
+            align="left"
+            width="55%"
+            alt="mrghosti3's GitHub Stats"
+            src="https://github-readme-stats.vercel.app/api?username=mrghosti3&show_icons=true&theme=tokyonight&count_private=true&bg_color=3A5D37&text_color=FAC860&icon_color=E75A7C"
+        />
+    </a>
+    <a href="#x">
+        <img
+            align="left"
+            width="36.25%"
+            alt="mrghosti3's GitHub Stats"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrghosti3&layout=compact&theme=tokyonight&langs_count=8&bg_color=2B4D28&text_color=FAC860"
+        />
+    </a>
+</div>
