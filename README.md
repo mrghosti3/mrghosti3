@@ -28,14 +28,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#634](https://github.com/cantaloupe-project/cantaloupe/issues/634#issuecomment-1671943120) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
-2. 🗣 Commented on [#634](https://github.com/cantaloupe-project/cantaloupe/issues/634#issuecomment-1671316908) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
-3. 🗣 Commented on [#634](https://github.com/cantaloupe-project/cantaloupe/issues/634#issuecomment-1671258104) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
-4. 💪 Opened PR [#4](https://github.com/codytrey/gen_gcode/pull/4) in [codytrey/gen_gcode](https://github.com/codytrey/gen_gcode)
-5. 🔒 Closed issue [#4](https://github.com/mrghosti3/cncli/issues/4) in [mrghosti3/cncli](https://github.com/mrghosti3/cncli)
-6. 🗣 Commented on [#4](https://github.com/mrghosti3/cncli/issues/4#issuecomment-1667351703) in [mrghosti3/cncli](https://github.com/mrghosti3/cncli)
-7. ❗ Opened issue [#4](https://github.com/mrghosti3/cncli/issues/4) in [mrghosti3/cncli](https://github.com/mrghosti3/cncli)
-8. 🔒 Closed issue [#3](https://github.com/mrghosti3/cncli/issues/3) in [mrghosti3/cncli](https://github.com/mrghosti3/cncli)
+1. 🗣 Commented on [#6](https://github.com/mrghosti3/CustomPlugin/issues/6#issuecomment-1678540240) in [mrghosti3/CustomPlugin](https://github.com/mrghosti3/CustomPlugin)
+2. 🗣 Commented on [#634](https://github.com/cantaloupe-project/cantaloupe/issues/634#issuecomment-1671943120) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
+3. 🗣 Commented on [#634](https://github.com/cantaloupe-project/cantaloupe/issues/634#issuecomment-1671316908) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
+4. 🗣 Commented on [#634](https://github.com/cantaloupe-project/cantaloupe/issues/634#issuecomment-1671258104) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
+5. 💪 Opened PR [#4](https://github.com/codytrey/gen_gcode/pull/4) in [codytrey/gen_gcode](https://github.com/codytrey/gen_gcode)
+6. 🔒 Closed issue [#4](https://github.com/mrghosti3/cncli/issues/4) in [mrghosti3/cncli](https://github.com/mrghosti3/cncli)
+7. 🗣 Commented on [#4](https://github.com/mrghosti3/cncli/issues/4#issuecomment-1667351703) in [mrghosti3/cncli](https://github.com/mrghosti3/cncli)
+8. ❗ Opened issue [#4](https://github.com/mrghosti3/cncli/issues/4) in [mrghosti3/cncli](https://github.com/mrghosti3/cncli)
 <!--END_SECTION:activity-->
 
 <br />
