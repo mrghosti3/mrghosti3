@@ -28,14 +28,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/mrghosti3/nbteditor/issues/5#issuecomment-1717586992) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-2. 🗣 Commented on [#1](https://github.com/mrghosti3/cncli/issues/1#issuecomment-1717443860) in [mrghosti3/cncli](https://github.com/mrghosti3/cncli)
-3. 🔒 Closed issue [#5](https://github.com/mrghosti3/cncli/issues/5) in [mrghosti3/cncli](https://github.com/mrghosti3/cncli)
-4. 🗣 Commented on [#5](https://github.com/mrghosti3/cncli/issues/5#issuecomment-1717429360) in [mrghosti3/cncli](https://github.com/mrghosti3/cncli)
-5. ❗ Opened issue [#6](https://github.com/mrghosti3/cncli/issues/6) in [mrghosti3/cncli](https://github.com/mrghosti3/cncli)
-6. ❗ Opened issue [#5](https://github.com/mrghosti3/cncli/issues/5) in [mrghosti3/cncli](https://github.com/mrghosti3/cncli)
-7. 🗣 Commented on [#47](https://github.com/ixmilia/dxf-rs/pull/47#issuecomment-1707340087) in [ixmilia/dxf-rs](https://github.com/ixmilia/dxf-rs)
-8. 🔒 Closed issue [#49](https://github.com/ixmilia/dxf-rs/issues/49) in [ixmilia/dxf-rs](https://github.com/ixmilia/dxf-rs)
+1. 🗣 Commented on [#54](https://github.com/Narigo/keepass-diff/issues/54#issuecomment-1725814036) in [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff)
+2. 🗣 Commented on [#27](https://github.com/eihwaz/named-binary-tag/pull/27#issuecomment-1725740573) in [eihwaz/named-binary-tag](https://github.com/eihwaz/named-binary-tag)
+3. 🗣 Commented on [#27](https://github.com/eihwaz/named-binary-tag/pull/27#issuecomment-1725701618) in [eihwaz/named-binary-tag](https://github.com/eihwaz/named-binary-tag)
+4. 🗣 Commented on [#27](https://github.com/eihwaz/named-binary-tag/pull/27#issuecomment-1725409189) in [eihwaz/named-binary-tag](https://github.com/eihwaz/named-binary-tag)
+5. 🗣 Commented on [#27](https://github.com/eihwaz/named-binary-tag/pull/27#issuecomment-1724820325) in [eihwaz/named-binary-tag](https://github.com/eihwaz/named-binary-tag)
+6. 🗣 Commented on [#64](https://github.com/Narigo/keepass-diff/pull/64#issuecomment-1724120267) in [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff)
+7. 💪 Opened PR [#65](https://github.com/Narigo/keepass-diff/pull/65) in [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff)
+8. 💪 Opened PR [#64](https://github.com/Narigo/keepass-diff/pull/64) in [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff)
 <!--END_SECTION:activity-->
 
 <br />
