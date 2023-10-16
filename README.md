@@ -3,25 +3,25 @@
 ### Currently interested:
 
 - Open-source software
+- Containerization with [podman](https://podman.io/)
 - Software development on Linux (Currently on Fedora Workstation)
 - Learning Rust
 - Blockchain and P2P networking
 
-### Tools and Languages:
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+[![Raspberry PI](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
 
-<img align="left" width="40px" alt="Fedora Workstation" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
-<img align="left" width="40px" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" width="40px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" width="40px" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" width="40px" alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-<img align="left" width="40px" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" width="40px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" width="40px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img align="left" width="40px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+### Languages:
 
-<br><br>
+<a href="https://github.com/tandpfun/skill-icons">
+    <img src="https://skillicons.dev/icons?i=c,rust,py,java,lua,vue,js,scss">
+</a>
 
-<img width="60px" alt="Podman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" />
+### Tools:
+
+<a href="https://github.com/tandpfun/skill-icons">
+    <img src="https://skillicons.dev/icons?i=linux,github,gitlab,bash,git,neovim,androidstudio,godot,blender,octave">
+</a>
 
 ---
 
