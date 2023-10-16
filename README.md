@@ -20,7 +20,8 @@
 ### Tools:
 
 <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=linux,github,gitlab,bash,git,neovim,androidstudio,godot,blender,octave">
+    <img src="https://skillicons.dev/icons?theme=light&i=linux,github,gitlab,bash">
+    <img src="https://skillicons.dev/icons?i=git,neovim,androidstudio,godot,blender,octave">
 </a>
 
 ---
