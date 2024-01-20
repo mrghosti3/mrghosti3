@@ -29,9 +29,9 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/Narigo/keepass-diff/issues/68#issuecomment-1825707154) in [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff)
-2. 💪 Opened PR [#69](https://github.com/Narigo/keepass-diff/pull/69) in [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff)
-3. 🗣 Commented on [#57](https://github.com/ixmilia/dxf-rs/issues/57#issuecomment-1764121059) in [ixmilia/dxf-rs](https://github.com/ixmilia/dxf-rs)
+1. 🗣 Commented on [#1729](https://github.com/Kunzisoft/KeePassDX/issues/1729#issuecomment-1893557767) in [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)
+2. 🗣 Commented on [#68](https://github.com/Narigo/keepass-diff/issues/68#issuecomment-1825707154) in [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff)
+3. 💪 Opened PR [#69](https://github.com/Narigo/keepass-diff/pull/69) in [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff)
 4. 🗣 Commented on [#4306](https://github.com/organicmaps/organicmaps/pull/4306#issuecomment-1748373521) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
 5. 🗣 Commented on [#4306](https://github.com/organicmaps/organicmaps/pull/4306#issuecomment-1746490987) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
 6. 🗣 Commented on [#57](https://github.com/Pool-Of-Tears/GreenStash/issues/57#issuecomment-1742037936) in [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash)
