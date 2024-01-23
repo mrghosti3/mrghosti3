@@ -7,6 +7,8 @@
 - Software development on Linux (Currently on Fedora Workstation)
 - Learning Rust
 - Blockchain and P2P networking
+- About Rust stable ABI and Allocator API
+- Zig lang
 
 [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
 [![Raspberry PI](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
