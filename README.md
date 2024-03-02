@@ -31,14 +31,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#623](https://github.com/cantaloupe-project/cantaloupe/issues/623#issuecomment-1949396041) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
-2. 🔒 Closed issue [#623](https://github.com/cantaloupe-project/cantaloupe/issues/623) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
-3. 🗣 Commented on [#70](https://github.com/Narigo/keepass-diff/pull/70#issuecomment-1919908638) in [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff)
-4. ❗ Opened issue [#6](https://github.com/mrghosti3/nbteditor/issues/6) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-5. ❌ Closed PR [#26](https://github.com/eihwaz/named-binary-tag/pull/26) in [eihwaz/named-binary-tag](https://github.com/eihwaz/named-binary-tag)
-6. 🗣 Commented on [#1729](https://github.com/Kunzisoft/KeePassDX/issues/1729#issuecomment-1893557767) in [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)
-7. 🗣 Commented on [#68](https://github.com/Narigo/keepass-diff/issues/68#issuecomment-1825707154) in [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff)
-8. 💪 Opened PR [#69](https://github.com/Narigo/keepass-diff/pull/69) in [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff)
+1. 🗣 Commented on [#735](https://github.com/zellij-org/zellij/issues/735#issuecomment-1973104663) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+2. 🗣 Commented on [#735](https://github.com/zellij-org/zellij/issues/735#issuecomment-1973090367) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+3. 🗣 Commented on [#623](https://github.com/cantaloupe-project/cantaloupe/issues/623#issuecomment-1949396041) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
+4. 🔒 Closed issue [#623](https://github.com/cantaloupe-project/cantaloupe/issues/623) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
+5. 🗣 Commented on [#70](https://github.com/Narigo/keepass-diff/pull/70#issuecomment-1919908638) in [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff)
+6. ❗ Opened issue [#6](https://github.com/mrghosti3/nbteditor/issues/6) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+7. ❌ Closed PR [#26](https://github.com/eihwaz/named-binary-tag/pull/26) in [eihwaz/named-binary-tag](https://github.com/eihwaz/named-binary-tag)
+8. 🗣 Commented on [#1729](https://github.com/Kunzisoft/KeePassDX/issues/1729#issuecomment-1893557767) in [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)
 <!--END_SECTION:activity-->
 
 <br />
