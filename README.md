@@ -31,14 +31,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#461](https://github.com/diwic/dbus-rs/pull/461#issuecomment-1985980198) in [diwic/dbus-rs](https://github.com/diwic/dbus-rs)
-2. 💪 Opened PR [#461](https://github.com/diwic/dbus-rs/pull/461) in [diwic/dbus-rs](https://github.com/diwic/dbus-rs)
-3. 🗣 Commented on [#68](https://github.com/Narigo/keepass-diff/issues/68#issuecomment-1980945029) in [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff)
-4. 🗣 Commented on [#735](https://github.com/zellij-org/zellij/issues/735#issuecomment-1973104663) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-5. 🗣 Commented on [#735](https://github.com/zellij-org/zellij/issues/735#issuecomment-1973090367) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
-6. 🗣 Commented on [#623](https://github.com/cantaloupe-project/cantaloupe/issues/623#issuecomment-1949396041) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
-7. 🔒 Closed issue [#623](https://github.com/cantaloupe-project/cantaloupe/issues/623) in [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe)
-8. 🗣 Commented on [#70](https://github.com/Narigo/keepass-diff/pull/70#issuecomment-1919908638) in [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff)
+1. ❗ Opened issue [#64](https://github.com/ixmilia/dxf-rs/issues/64) in [ixmilia/dxf-rs](https://github.com/ixmilia/dxf-rs)
+2. ❗ Opened issue [#8](https://github.com/mrghosti3/nbteditor/issues/8) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+3. ❗ Opened issue [#7](https://github.com/mrghosti3/nbteditor/issues/7) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+4. 🗣 Commented on [#461](https://github.com/diwic/dbus-rs/pull/461#issuecomment-1985980198) in [diwic/dbus-rs](https://github.com/diwic/dbus-rs)
+5. 💪 Opened PR [#461](https://github.com/diwic/dbus-rs/pull/461) in [diwic/dbus-rs](https://github.com/diwic/dbus-rs)
+6. 🗣 Commented on [#68](https://github.com/Narigo/keepass-diff/issues/68#issuecomment-1980945029) in [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff)
+7. 🗣 Commented on [#735](https://github.com/zellij-org/zellij/issues/735#issuecomment-1973104663) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+8. 🗣 Commented on [#735](https://github.com/zellij-org/zellij/issues/735#issuecomment-1973090367) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
 <!--END_SECTION:activity-->
 
 <br />
