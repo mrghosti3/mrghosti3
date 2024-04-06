@@ -31,14 +31,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1421](https://github.com/Kunzisoft/KeePassDX/issues/1421#issuecomment-2026705216) in [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)
-2. ❗ Opened issue [#64](https://github.com/ixmilia/dxf-rs/issues/64) in [ixmilia/dxf-rs](https://github.com/ixmilia/dxf-rs)
-3. ❗ Opened issue [#8](https://github.com/mrghosti3/nbteditor/issues/8) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-4. ❗ Opened issue [#7](https://github.com/mrghosti3/nbteditor/issues/7) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-5. 🗣 Commented on [#461](https://github.com/diwic/dbus-rs/pull/461#issuecomment-1985980198) in [diwic/dbus-rs](https://github.com/diwic/dbus-rs)
-6. 💪 Opened PR [#461](https://github.com/diwic/dbus-rs/pull/461) in [diwic/dbus-rs](https://github.com/diwic/dbus-rs)
-7. 🗣 Commented on [#68](https://github.com/Narigo/keepass-diff/issues/68#issuecomment-1980945029) in [Narigo/keepass-diff](https://github.com/Narigo/keepass-diff)
-8. 🗣 Commented on [#735](https://github.com/zellij-org/zellij/issues/735#issuecomment-1973104663) in [zellij-org/zellij](https://github.com/zellij-org/zellij)
+1. 🔒 Closed issue [#64](https://github.com/ixmilia/dxf-rs/issues/64) in [ixmilia/dxf-rs](https://github.com/ixmilia/dxf-rs)
+2. 🗣 Commented on [#64](https://github.com/ixmilia/dxf-rs/issues/64#issuecomment-2039965881) in [ixmilia/dxf-rs](https://github.com/ixmilia/dxf-rs)
+3. 🗣 Commented on [#1421](https://github.com/Kunzisoft/KeePassDX/issues/1421#issuecomment-2026705216) in [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)
+4. ❗ Opened issue [#64](https://github.com/ixmilia/dxf-rs/issues/64) in [ixmilia/dxf-rs](https://github.com/ixmilia/dxf-rs)
+5. ❗ Opened issue [#8](https://github.com/mrghosti3/nbteditor/issues/8) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+6. ❗ Opened issue [#7](https://github.com/mrghosti3/nbteditor/issues/7) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+7. 🗣 Commented on [#461](https://github.com/diwic/dbus-rs/pull/461#issuecomment-1985980198) in [diwic/dbus-rs](https://github.com/diwic/dbus-rs)
+8. 💪 Opened PR [#461](https://github.com/diwic/dbus-rs/pull/461) in [diwic/dbus-rs](https://github.com/diwic/dbus-rs)
 <!--END_SECTION:activity-->
 
 <br />
