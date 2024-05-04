@@ -31,14 +31,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/mrghosti3/nbteditor/issues/12) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-2. ❗ Opened issue [#11](https://github.com/mrghosti3/nbteditor/issues/11) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-3. ❗ Opened issue [#10](https://github.com/mrghosti3/nbteditor/issues/10) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-4. ❗ Opened issue [#9](https://github.com/mrghosti3/nbteditor/issues/9) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-5. 🔒 Closed issue [#8](https://github.com/mrghosti3/nbteditor/issues/8) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-6. 🔒 Closed issue [#6](https://github.com/mrghosti3/nbteditor/issues/6) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-7. 🗣 Commented on [#83](https://github.com/laravel/sail/issues/83#issuecomment-2078199165) in [laravel/sail](https://github.com/laravel/sail)
-8. 🗣 Commented on [#216](https://github.com/vu-sa/vusa.lt/issues/216#issuecomment-2078057413) in [vu-sa/vusa.lt](https://github.com/vu-sa/vusa.lt)
+1. ❗ Opened issue [#15](https://github.com/mrghosti3/nbteditor/issues/15) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+2. ❗ Opened issue [#14](https://github.com/mrghosti3/nbteditor/issues/14) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+3. ❗ Opened issue [#13](https://github.com/mrghosti3/nbteditor/issues/13) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+4. 🗣 Commented on [#9](https://github.com/mrghosti3/nbteditor/issues/9#issuecomment-2087777153) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+5. 🔒 Closed issue [#9](https://github.com/mrghosti3/nbteditor/issues/9) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+6. 🔒 Closed issue [#10](https://github.com/mrghosti3/nbteditor/issues/10) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+7. 🔒 Closed issue [#12](https://github.com/mrghosti3/nbteditor/issues/12) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+8. 🗣 Commented on [#1094](https://github.com/latex-lsp/texlab/issues/1094#issuecomment-2081203961) in [latex-lsp/texlab](https://github.com/latex-lsp/texlab)
 <!--END_SECTION:activity-->
 
 <br />
