@@ -31,14 +31,14 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#15](https://github.com/mrghosti3/nbteditor/issues/15) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-2. 🔒 Closed issue [#14](https://github.com/mrghosti3/nbteditor/issues/14) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-3. ❗ Opened issue [#16](https://github.com/mrghosti3/nbteditor/issues/16) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-4. ❗ Opened issue [#15](https://github.com/mrghosti3/nbteditor/issues/15) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-5. ❗ Opened issue [#14](https://github.com/mrghosti3/nbteditor/issues/14) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-6. ❗ Opened issue [#13](https://github.com/mrghosti3/nbteditor/issues/13) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-7. 🗣 Commented on [#9](https://github.com/mrghosti3/nbteditor/issues/9#issuecomment-2087777153) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
-8. 🔒 Closed issue [#9](https://github.com/mrghosti3/nbteditor/issues/9) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+1. 🗣 Commented on [#7](https://github.com/mrghosti3/nbteditor/issues/7#issuecomment-2142995668) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+2. 🔒 Closed issue [#7](https://github.com/mrghosti3/nbteditor/issues/7) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+3. 🔒 Closed issue [#13](https://github.com/mrghosti3/nbteditor/issues/13) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+4. 🔒 Closed issue [#17](https://github.com/mrghosti3/nbteditor/issues/17) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+5. ❗ Opened issue [#17](https://github.com/mrghosti3/nbteditor/issues/17) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
+6. 🗣 Commented on [#70](https://github.com/PistonDevelopers/hematite_nbt/issues/70#issuecomment-2136205549) in [PistonDevelopers/hematite_nbt](https://github.com/PistonDevelopers/hematite_nbt)
+7. 🗣 Commented on [#70](https://github.com/PistonDevelopers/hematite_nbt/issues/70#issuecomment-2136193359) in [PistonDevelopers/hematite_nbt](https://github.com/PistonDevelopers/hematite_nbt)
+8. 🔒 Closed issue [#15](https://github.com/mrghosti3/nbteditor/issues/15) in [mrghosti3/nbteditor](https://github.com/mrghosti3/nbteditor)
 <!--END_SECTION:activity-->
 
 <br />
